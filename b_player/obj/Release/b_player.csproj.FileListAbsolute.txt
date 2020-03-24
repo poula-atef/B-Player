@@ -1,0 +1,37 @@
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\b_player.exe.config
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\Interop.AXVLC.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\Interop.WMPLib.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\AxInterop.AXVLC.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.csproj.ResolveComReference.cache
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\b_player.exe
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\b_player.pdb
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\Interop.AXVLC.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\Interop.WMPLib.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\AxInterop.AXVLC.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.Form1.resources
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.Properties.Resources.resources
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.csproj.GenerateResource.Cache
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.exe
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.pdb
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\poula atef\Documents\Visual Studio 2013\Projects\b_player\b_player\obj\Release\b_player.csprojResolveAssemblyReference.cache
+F:\Projects\media player\b_player\b_player\bin\Release\b_player.exe.config
+F:\Projects\media player\b_player\b_player\obj\Release\Interop.AXVLC.dll
+F:\Projects\media player\b_player\b_player\obj\Release\Interop.WMPLib.dll
+F:\Projects\media player\b_player\b_player\obj\Release\AxInterop.AXVLC.dll
+F:\Projects\media player\b_player\b_player\obj\Release\AxInterop.WMPLib.dll
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.csproj.ResolveComReference.cache
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.exe
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.pdb
+F:\Projects\media player\b_player\b_player\bin\Release\b_player.exe
+F:\Projects\media player\b_player\b_player\bin\Release\b_player.pdb
+F:\Projects\media player\b_player\b_player\bin\Release\Interop.AXVLC.dll
+F:\Projects\media player\b_player\b_player\bin\Release\Interop.WMPLib.dll
+F:\Projects\media player\b_player\b_player\bin\Release\AxInterop.AXVLC.dll
+F:\Projects\media player\b_player\b_player\bin\Release\AxInterop.WMPLib.dll
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.csprojResolveAssemblyReference.cache
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.Form1.resources
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.Properties.Resources.resources
+F:\Projects\media player\b_player\b_player\obj\Release\b_player.csproj.GenerateResource.Cache
